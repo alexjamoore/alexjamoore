@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Moore
-- 👀 I’m interested in Powershell.
+- 👀 I’m interested in Python, C#, Powershell.
 
 <!---
 alexjamoore/alexjamoore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
